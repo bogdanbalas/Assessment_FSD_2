@@ -12,7 +12,7 @@
 <br><br>
 
 <h4><a href=HomePage.jsp style="font-size:25;color:red;">Home</a></h4>
-<h4><a href=ForgotPassword.jsp style="font-size:25;color:red;">Forgot Password</a></h4>
+
 
 <center>
 <h2>Admin Login</h2>

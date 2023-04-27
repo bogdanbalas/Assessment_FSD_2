@@ -11,7 +11,7 @@
 <a href=HomePage.jsp style="color:black;text-decoration:none ;font-size:35px;font-weight:bold;">Flight Details</a>
 <br><br>
 <h4><a href=HomePage.jsp style="font-size:25;color:red;">Home</a></h4>
-<h4><a href=AdminPage.jsp style="font-size:25;color:red;">Admin Login</a></h4>
+<h4><a href=ForgotPassword.jsp style="font-size:25;color:red;">Change Password</a></h4>
 
 
 <center>

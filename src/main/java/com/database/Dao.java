@@ -38,9 +38,9 @@ public List<String[]> getAvailableFlights(String f, String t, String d) {
 				flight[2]=rs.getString("price");
 				flights.add(flight);
 				
-				//System.out.println(flights);
+				return flights;
 			}
-			return flights;
+			
 			
 		} catch (SQLException e) {
 			e.printStackTrace();
