@@ -10,7 +10,8 @@ As a Full Stack Developer, design and develop an airline booking portal named Fl
 
 ### Admin Journey:
 
-![image](https://user-images.githubusercontent.com/122267768/234855981-25865f6b-ca71-4c1f-8bc4-79cb1626db2e.png)
+![image](https://user-images.githubusercontent.com/122267768/234867633-0d9c1fe4-2b15-44a5-8217-1ec24dd41c92.png)
+
 
 ## Sprint breakdown:
 Sprint 1 - build the maven project, connect to the database, build the Mysql DB tables & add initial info, build the querries used for CRUD operations
