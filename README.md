@@ -69,4 +69,11 @@ If the cerdentials are correct the admin is edirected to the his main page. At t
 
 ![image](https://user-images.githubusercontent.com/122267768/234866513-35c6c903-8be1-412c-b762-b94b837338bc.png)
 
+Selecting Change password will take the admin to the screen where he may update his password:
+
+![image](https://user-images.githubusercontent.com/122267768/234868114-16e526df-815e-4ac6-9879-8869702fd490.png)
+
+Or in the admin main page he mai add a new flight in the database:
+
+![image](https://user-images.githubusercontent.com/122267768/234868470-6a20a001-2a30-432f-afb8-6a30b2bf4b1b.png)
 
